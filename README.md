@@ -1,12 +1,7 @@
 # 0-Day
 
 This repository contains files written for Vagrant, Emacs, and vi projects
-completed for my first day, zero-day, at Holberton School. The specific list of
-projects contained follows:
-
-* [0x00. Vagrant](./0x00-vagrant)
-* [0x01. Emacs](./0x01-emacs)
-* [0x02. vi](./0x02-vi)
+completed for my first day, zero-day, at Holberton School.
 
 ## Author :Patrick MICHEL:
 
