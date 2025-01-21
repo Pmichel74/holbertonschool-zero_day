@@ -21,6 +21,6 @@ more information, visit [this link](https://www.holbertonschool.com/).
 
 <p align="center">
   <img
-   src="http://www.holbertonschool.com/holberton-logo.png"
+   src="http://www.holbertonschool.com/img/holberton-logo.png"
    alt="Holberton School logo">
 </p>
